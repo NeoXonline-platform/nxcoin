@@ -1,0 +1,22 @@
+{
+  "name": "NXCOiN Token List",
+  "logoURI": "https://raw.githubusercontent.com/NeoXonline-platform/nxcoin/main/logo.png",
+  "keywords": ["base", "nxcoin", "crypto"],
+  "timestamp": "2025-10-19T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x012d39D95c0a5177E5E0F58D6A899a1AC84C2097",
+      "symbol": "NXCOIN",
+      "name": "NXCOiN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/NeoXonline-platform/nxcoin/main/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
+
